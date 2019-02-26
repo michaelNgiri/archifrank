@@ -1,5 +1,11 @@
 {
+  "name": "laravel/laravel",
+    "description": "An architectural website.",
+    "keywords": ["Archutecture", "Archutectural"],
+    "license": "MIT",
+    "type": "project",
+
   "require": {
-    "silex/silex": "~1.1",
+    "silex/silex": "~1.1"
   }
 }
